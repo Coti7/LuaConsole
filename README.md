@@ -6,4 +6,4 @@ Custom functions:
 - clear()<br>
   Clears the terminal.
 
-Requires boost/algorithm/string/trim.hpp for compilation
+Requires boost/algorithm/string/trim.hpp for compilation.
