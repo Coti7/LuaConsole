@@ -6,4 +6,7 @@ Custom functions:
 - clear()<br>
   Clears the terminal.
 
+To run a Lua script file, simply enter its filename ending with the .lua extension.
+
+<br><br>
 Requires boost/algorithm/string/trim.hpp for compilation.
