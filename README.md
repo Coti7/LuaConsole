@@ -6,6 +6,7 @@ Custom functions:
 - clear()<br>
   Clears the terminal.
 
+<br>
 To run a Lua script file, simply enter its filename ending with the .lua extension.
 
 <br><br>
